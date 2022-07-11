@@ -72,4 +72,4 @@ _printf("%s, %s %d, %d\\n", weekday, month, day, year);
 .SH BUGS
 No known bugs, If one is found sent your report to https://github.com/Natzsmart and https://github.com/iamkenny-dev
 .SH AUTHOR
-Iniobong Effiong, Adelakun Kehinde
+Rodiyyaht Kolawole, Abdulkarim Ibrahim Aminu 
